@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Elf.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="savedLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\win\Desktop\Xmas</Value>
+    </Setting>
+    <Setting Name="savedID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="savedInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
